@@ -4,7 +4,7 @@ I'm a BCA graduate with a passion for crafting awesome user experiences using Ja
 
 **Skills & Technologies:**
 
-*   **Frontend:** JavaScript, React, HTML, CSS, Redux (if applicable), Next.js (if applicable), other relevant frontend frameworks/libraries.
+*   **Frontend:** JavaScript, React, HTML, CSS other relevant frontend frameworks/libraries.
 *   **UI/UX:** Figma, Adobe XD (or other design tools you use), wireframing, prototyping, user research (mention any experience you have).
 *   **Mobile:** Flutter, Dart (mention any other mobile development experience).
 
