@@ -7,7 +7,6 @@ I'm a BCA graduate with a passion for crafting awesome user experiences using Ja
 *   **Frontend:** JavaScript, React, HTML, CSS, Redux (if applicable), Next.js (if applicable), other relevant frontend frameworks/libraries.
 *   **UI/UX:** Figma, Adobe XD (or other design tools you use), wireframing, prototyping, user research (mention any experience you have).
 *   **Mobile:** Flutter, Dart (mention any other mobile development experience).
-*   **Other:**  Version control (Git), Agile methodologies (if applicable), testing frameworks (Jest, Cypress, etc. - mention any you know).
 
 **Looking For:**
 
